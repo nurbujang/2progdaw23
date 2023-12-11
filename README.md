@@ -8,16 +8,12 @@ Project 2 for Programming for Data Analysis Winter 2023
 * ProgDAProject2.pdf (Project 2 Description)
 * project2.ipynb (Jupyter notebook)
     * main report
-* 
+* img folder
     * 
-* 
+* data folder
     * 
 * README.md for Project 2
     * supplementary data of Project 2
-* 
-* 
-* 
-* 
 
 ## Table of Content for project2.ipynb
 
@@ -29,57 +25,35 @@ Project 2 for Programming for Data Analysis Winter 2023
 
 * 1.0 Background
 
-    * 1.1 
+    * 1.1 Climate Change
 
-    * 1.2 
+    * 1.2 Global Warming
 
-    * 1.3 
+    * 1.3 Links Between CO<sub>2</sub>, Temperature, CH<sub>4</sub> And Precipitation In Climate Change
 
-    * 1.4 
+        * 1.3.1 Atmospheric CO<sub>2</sub>
 
-    * 1.5 
+        * 1.3.2 Paleo Temperature
 
-        * 1.5.1 
+        * 1.3.3 Atmospheric C|H<sub>4</sub>
 
-        * 1.5.2 
-
-        * 1.5.3 
-
-        * 1.5.4 
+        * 1.3.4 Irish Precipitation
 
 * 2.0 Methods and Implementation
 
-        * 2.1 
+        * 2.1 CO<sub>2</sub> vs Temperature Anomaly From 800kyrs – Present
 
-        * 2.2 
+        * 2.2 CH<sub>4</sub> Anomaly From 800kyrs – Present
 
-        * 2.3 
+        * 2.3 Irish Context: Precipitation
 
-            * 2.3.1 
+        * 2.4 Data Fusion To csv And json
 
-            * 2.3.2 
+        * 2.5 Analysis Of CO<sub>2</sub>, Temperature, CH<sub>4</sub> and Precipitation
 
-            * 2.3.3 
+        * 2.6 Global Temperature Anomaly Prediction
 
-            * 2.3.4 
-
-            * 2.3.5 
-
-* 3.0 Analysis
-
-    * 3.1 
-
-    * 3.2 
-
-    * 3.3 
-
-    * 3.4 
-
-    * 3.5 
-
-    * 3.6 
-
-        3.6.1 
+        * 2.7 Accelerated Warming
 
 * 4.0 Conclusions
 
