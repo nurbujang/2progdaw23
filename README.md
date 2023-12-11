@@ -33,9 +33,9 @@ Project 2 for Programming for Data Analysis Winter 2023
 
         * 1.3.1 Atmospheric CO<sub>2</sub>
 
-        * 1.3.2 Paleo Temperature
+        * 1.3.2 Temperature
 
-        * 1.3.3 Atmospheric C|H<sub>4</sub>
+        * 1.3.3 Atmospheric CH<sub>4</sub>
 
         * 1.3.4 Irish Precipitation
 
