@@ -43,6 +43,10 @@ Project 2 for Programming for Data Analysis Winter 2023
 
         * 2.1 CO<sub>2</sub> vs Temperature Anomaly From 800kyrs – Present
 
+            * 2.1.1 CO<sub>2</sub>
+
+            * 2.1.2 Air Temperature
+
         * 2.2 CH<sub>4</sub> Anomaly From 800kyrs – Present
 
         * 2.3 Irish Context: Precipitation
