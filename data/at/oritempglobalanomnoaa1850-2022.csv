@@ -2,7 +2,7 @@
 "Units: Degrees Celsius, 1901-2000 avg=13.9",,,
 "Base Period: 1901-2000",,,
 "Missing: -999",,,
-"Year","Anomaly","1901-2000 avg","act temp c"
+"year","anomaly","1901-2000 avg","actual temp c"
 1850,-0.37,13.9,13.53
 1851,-0.12,13.9,13.78
 1852,-0.15,13.9,13.75
