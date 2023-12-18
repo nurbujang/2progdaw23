@@ -1,0 +1,440 @@
+# Law Dome, Antarctica 2000 Year Ice Core CO2, CH4, N2O and d13C-CO2 Data
+#----------------------------------------------------------------------- 
+#                World Data Service for Paleoclimatology, Boulder 
+#                                  and 
+#                     NOAA Paleoclimatology Program 
+#             National Centers for Environmental Information (NCEI)
+#----------------------------------------------------------------------- 
+# Template Version 3.0
+# Encoding: UTF-8
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data. 
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed. 
+#
+# Online_Resource: https://www.ncdc.noaa.gov/paleo/study/25830 
+#       Description: NOAA Landing Page
+# Online_Resource: https://www1.ncdc.noaa.gov/pub/data/paleo/icecore/antarctica/law/law2018ch4.txt
+#       Description: NOAA location of the template
+#
+# Original_Source_URL: https://doi.org/10.25919/5bfe29ff807fb
+#       Description:
+# 
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Ice Core
+#
+# Dataset DOI: 
+#
+# Parameter_Keywords: atmospheric gas, carbon isotopes 
+#--------------------
+# Contribution_Date
+#	Date: 2018-12-14
+#--------------------
+# File_Last_Modified_Date
+#	Date: 2018-12-14
+#--------------------
+# Title
+#	Study_Name: Law Dome, Antarctica 2000 Year Ice Core CO2, CH4, N2O and d13C-CO2 Data
+#--------------------
+# Investigators
+#	Investigators: Rubino, M.; Etheridge, D.M.; Thornton, D.P.; Howden, R.; Allison, C.E.; Francey, R.J.; Langenfelds, R.L.; Steele, L.P.; Trudinger, C.M.; Spencer, D.A.; Curran, M.A.J.; Van Ommen, T.D.; Smith, A.M.
+#--------------------
+# Description_Notes_and_Keywords
+#	Description: Law Dome ice core (DSS, DSS0506, DE08 and DE08-2) and firn air (DE08-2 and DSSW20K) records of CO2, CH4 and N2O concentrations for the past 2000 years and d13C-CO2 for the past 1000 years.
+#--------------------
+# Publication 
+#	Authors: Mauro Rubino, David Etheridge, David Thornton, Russell Howden, Colin Allison, Roger Francey, Ray Langenfelds, Paul Steele, Cathy Trudinger, Darren Spencer, Mark Curran, Tas Van Ommen, and Andrew Smith
+#	Published_Date_or_Year: 2018-12-14
+#	Published_Title: Revised records of atmospheric trace gases CO2, CH4, N2O and d13C-O2 over the last 2000 years from Law Dome, Antarctica
+#	Journal_Name: Earth System Science Data Discussions
+#	Volume: 
+#	Edition: 
+#	Issue: 
+#	Pages:
+#	Report_Number: 
+#	DOI: 10.5194/essd-2018-146
+#	Online_Resource: https://www.earth-syst-sci-data-discuss.net/essd-2018-146/
+#	Full_Citation: 
+#	Abstract: Ice core records of the major atmospheric greenhouse gases (CO2, CH4, N2O) and their isotopologues covering recent centuries provide evidence of biogeochemical variations during the Late-Holocene and Pre-Industrial Periods and over the transition to the Industrial Period. These records come from a number of ice core and firn air sites, and have been measured in several laboratories around the world and show common features, but also unresolved differences. Here we present revised records, including new measurements, performed at the CSIRO Ice Core Extraction LABoratory (ICELAB) on air samples from ice obtained at the high accumulation site of Law Dome (East Antarctica). We are motivated by the increasing use of the records by the scientific community and by recent data-handling developments at CSIRO-ICELAB. A number of cores and firn air samples have been collected at Law Dome to provide high resolution records overlapping recent, direct atmospheric observations. The records have been updated through a dynamic link to the calibration scales used in the Global Atmospheric Sampling LABoratory (GASLAB) at CSIRO, which are periodically revised with information from the latest calibration experiments. The gas-age scales have been revised based on new ice-age scales, and the information derived from a new version of the CSIRO firn diffusion model. Additionally, the records have been revised with new, rule-based selection criteria and updated corrections for biases associated with the extraction procedure, and the effects of gravity and diffusion in the firn. All measurements carried out in ICELAB-GASLAB over the last 25 years are now managed through a database (the ICElab dataBASE or ICEBASE) which provides consistent data management, automatic corrections and selection of measurements, and a web-based user interface for data extraction. We present the new records, discuss their strengths and limitations and summarise their main features. The records reveal changes in the carbon cycle and atmospheric chemistry over the last two millennia, including the major changes of the anthropogenic era and the smaller, mainly natural variations beforehand. They provide the historical data to calibrate and test the next inter-comparison of models used to predict future climate change (Coupled Model Inter-comparison Project - phase 6, CMIP6). The datasets described in this paper, including spline fits, are available at https://doi.org/10.25919/5bfe29ff807fb (Rubino et al., 2018).
+#------------------
+# Funding_Agency 
+#	Funding_Agency_Name: CSIRO 
+#	Grant: 
+#------------------
+# Funding_Agency 
+#	Funding_Agency_Name: Department of Energy and Environment
+#	Grant: 
+#------------------
+# Funding_Agency 
+#	Funding_Agency_Name: Australian Antarctic Science Program 
+#	Grant: 
+#------------------
+# Site_Information 
+#	Site_Name: Law Dome
+#	Location: Antarctica
+#	Country:  
+#	Northernmost_Latitude: -66.73
+# 	Southernmost_Latitude: -66.73
+# 	Easternmost_Longitude: 112.83
+# 	Westernmost_Longitude: 112.83
+# 	Elevation: 1390 m
+#------------------
+# Data_Collection   
+#	Collection_Name: Law2018CH4
+#	Earliest_Year: 155
+#	Most_Recent_Year: 1996
+#	Time_Unit: Years CE
+#	Core_Length: 
+#	Notes: Law Dome ice core (DSS, DSS0506, DE08 and DE08-2) and firn air (DE08-2 and DSSW20K) records of CH4
+#------------------
+# Chronology_Information
+#	Chronology: 
+# 	
+#----------------
+# Variables 
+#
+# Data variables follow are preceded by "##" in columns one and two.
+# Data line variables format:  one per line, shortname-tab-variable components (what, material, error, units, seasonality, data type,detail, method, C or N for Character or Numeric data, free text) 
+#
+## SampleID	Sample ID, , , , , , , ,C, 
+## age_ice	ice age, ice, , year Common Era, , , , ,C,
+## age_CH4	gas age, gas, , year Common Era, , , , ,N,
+## CH4ppb	methane, , , parts per billion, ,ice core,,,N,
+## CH4err	methane, , , parts per billion, ,ice core,,,N, methane uncertainty ppb
+#
+#----------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values: 
+#
+SampleID	age_ice	year	CH4 (ppbv)	CH4err
+DSSW20K 15.8	firn	1996	1707	1
+DSSW20K 29	firn	1994	1696	2
+DE08-2 0	firn	1993	1674	1
+DSSW20K 37.8	firn	1992	1682	2
+DE08-2 10	firn	1991	1678	2
+DE08-2 15	firn	1991	1675	6
+DE08-2 20	firn	1990	1671	2
+DSSW20K 41.7	firn	1989	1663	1
+DE08-2 30	firn	1989	1661	2
+DE08-2 40	firn	1988	1646	1
+DE08-2 50	firn	1987	1637	1
+DE08-2 55	firn	1987	1630	2
+DE08-2 60	firn	1986	1625	3
+DE08-2 65	firn	1986	1621	1
+DE08-2 70	firn	1985	1611	2
+DSSW20K 44.5	firn	1983	1588	1
+DE08-2 75	firn	1983	1583	1
+DE08-2 008	1948	1980	1497	8
+DE08-2 012	1948	1980	1496	8
+DE08-2 80	firn	1979	1518	2
+DE08-2 003	1945	1977	1476	5
+DE08-2 85	firn	1976	1479	6
+DE08-2 002	1943	1975	1437	8
+DE08 331	1942	1974	1417	7
+DE08-2 052	1941	1973	1434	4
+DE08-2 005	1941	1973	1402	5
+DE08-2 015	1940	1972	1396	8
+DE08-2 016	1939	1971	1396	8
+DE08 205	1939	1971	1373	5
+DSSW20K 47	firn	1971	1369	0
+DE08 235	1938	1970	1367	5
+DE08 439	1938	1970	1353	6
+DE08-2 032	1937	1969	1326	13
+DE08-2 051	1936	1968	1335	4
+DE08 440	1936	1968	1335	6
+DE08 226	1935	1967	1300	8
+DE08 225	1935	1967	1293	5
+DE08 339	1933	1965	1277	7
+DE08 203	1933	1965	1274	5
+DE08 214	1932	1964	1273	5
+DE08 432	1932	1964	1268	6
+DE08 215	1932	1964	1263	8
+DE08 212	1932	1964	1288	5
+DE08 213	1932	1964	1275	5
+DE08-2 040	1931	1963	1248	19
+DSS 004	1902	1963	1232	5
+DE08-2 043	1930	1962	1226	4
+DE08 391	1930	1962	1228	4
+DE08 340	1928	1960	1214	7
+DE08 355	1927	1959	1207	7
+DSS0506 15	1898	1959	1186	8
+DE08 416	1926	1958	1209	4
+DE08 354	1926	1958	1190	7
+DE08 415	1926	1958	1204	4
+DSSW20K 49.5	firn	1957	1192	1
+DSS 001	1896	1957	1178	5
+DSS 002	1896	1957	1197	5
+DSS 003	1896	1957	1185	5
+DE08 464	1924	1956	1177	16
+DE08 465	1924	1956	1186	16
+DE08 297	1924	1956	1178	10
+DE08 298	1924	1956	1166	7
+DE08 236	1923	1955	1157	5
+DE08 201	1923	1955	1153	5
+DE08 208	1923	1955	1159	5
+DE08 324	1923	1955	1154	7
+DE08 350	1922	1954	1153	7
+DSS 029	1890	1951	1115	5
+DE08 314	1919	1951	1121	7
+DE08 351	1918	1950	1097	7
+DE08-2 009	1918	1950	1115	5
+DE08 317	1917	1949	1112	7
+DE08-2 034	1917	1949	1115	14
+DE08-2 035	1916	1948	1110	10
+DE08 304	1916	1948	1106	7
+DE08 305	1916	1948	1112	7
+DE08-2 023	1916	1948	1106	5
+DE08 307	1915	1947	1097	7
+DE08 352	1914	1946	1123	7
+DE08 227	1914	1946	1094	5
+DE08-2 025	1913	1945	1091	5
+DE08-2 026	1913	1945	1084	5
+DE08 327	1913	1945	1090	7
+DE08 308	1912	1944	1090	7
+DE08 309	1912	1944	1090	7
+DE08 310	1911	1943	1084	7
+DE08 311	1911	1943	1085	7
+DE08-2 007	1910	1942	1081	5
+DE08 303	1910	1942	1087	10
+DE08 423	1910	1942	1080	4
+DSS 037	1880	1941	1067	5
+DE08-2 030	1909	1941	1076	10
+DE08 240	1908	1940	1072	5
+DE08 243	1908	1940	1073	8
+DSS0506 08	1879	1940	1060	12
+DE08 302	1908	1940	1085	3
+DE08 422	1908	1940	1072	4
+DE08 473	1908	1940	1070	11
+DSS0506 01	1879	1940	1074	12
+DSS 027	1878	1939	1064	5
+DE08 300	1907	1939	1073	7
+DE08 301	1907	1939	1072	10
+DE08 418	1906	1938	1061	4
+DE08 419	1906	1938	1061	6
+DSSW20K 52	firn	1938	1086	2
+DE08 278	1905	1937	1070	5
+DE08 282	1905	1937	1062	5
+DE08 420	1905	1937	1057	4
+DE08-2 011	1904	1936	1057	10
+DE08 284	1903	1935	1049	5
+DE08 285	1903	1935	1050	8
+DE08 287	1903	1935	1054	8
+DE08 443	1902	1934	1045	4
+DE08 325	1902	1934	1042	7
+DE08 238	1902	1934	1035	5
+DE08 437	1900	1932	1037	4
+DE08 438	1900	1932	1034	4
+DE08 431	1899	1931	1028	4
+DE08 341	1898	1930	1024	10
+DSS 041	1869	1930	1018	5
+DE08 274	1897	1929	1027	3
+DE08 275	1897	1929	1028	3
+DSS 008	1868	1929	1008	5
+DE08 474	1895	1927	1020	13
+DE08 475	1895	1927	998	19
+DE08-2 044	1895	1927	1004	14
+DE08 476	1895	1927	992	19
+DE08 231	1894	1926	1000	5
+DE08 237	1894	1926	1003	5
+DE08 269	1892	1924	1014	5
+DE08 270	1892	1924	1003	3
+DE08 271	1892	1924	1000	5
+DE08 272	1892	1924	1000	5
+DE08 342	1892	1924	993	7
+DSS0506 13	1863	1924	981	8
+DE08 430	1889	1921	962	4
+DE08 321	1888	1920	973	7
+DSS0506 04	1859	1920	969	16
+DE08 256	1887	1919	968	12
+DE08 257	1887	1919	965	18
+DE08 258	1887	1919	971	25
+DE08 259	1887	1919	963	18
+DE08 233	1885	1917	941	5
+DE08 333	1884	1916	938	7
+DE08 239	1882	1914	932	5
+DE08 394	1880	1912	927	14
+DE08 392	1880	1912	928	19
+DE08 267	1880	1912	927	5
+DE08 320	1878	1910	947	7
+DSS0506 07	1847	1908	897	12
+DSS0506 02	1847	1908	904	8
+DE08 253	1875	1907	895	5
+DE08 254	1875	1907	898	8
+DE08 336	1873	1905	896	7
+DE08 363	1871	1903	879	13
+DSS 007	1842	1903	878	5
+DE08 424	1870	1902	878	6
+DE08 435	1869	1901	880	4
+DE08 318	1868	1900	880	7
+DE08 230	1868	1900	872	5
+DE08 478	1866	1898	857	13
+DE08 479	1866	1898	875	13
+DE08 483	1866	1898	864	13
+DSS0506 33	1837	1898	856	13
+DE08 343	1863	1895	869	10
+DE08 384	1863	1895	866	10
+DE08 382a	1862	1894	867	10
+DE08 241	1862	1894	862	5
+DE08 427	1859	1891	856	4
+DE08 334	1858	1890	855	7
+DE08 335	1858	1890	855	7
+DE08 252	1857	1889	843	8
+DE08 470	1856	1888	842	8
+DE08 469	1856	1888	844	8
+DE08 471	1856	1888	845	7
+DE08 370	1855	1887	853	13
+DSS 172	1824	1885	856	7
+DE08 344	1853	1885	848	7
+DE08 229	1852	1884	838	8
+DE08 425	1849	1881	835	4
+DE08 255	1846	1878	832	8
+DE08 463	1845	1877	811	12
+DE08 330	1843	1875	833	7
+DE08 362	1842	1874	828	7
+DE08 436	1839	1871	828	4
+DE08 228	1839	1871	821	5
+DE08 380a	1838	1870	820	10
+DSS 171	1808	1869	813	7
+DE08 367	1836	1868	827	13
+DE08 368	1836	1868	823	7
+DSS 206	1807	1868	806	11
+DE08 447	1833	1865	808	4
+DE08 346	1832	1864	815	7
+DSS0506 32	1803	1864	802	11
+DE08 232	1831	1863	799	5
+DSS 205	1801	1862	790	11
+DSS0506 19	1799	1860	788	7
+DE08 347	1828	1860	797	7
+DE08 421	1826	1858	792	6
+DSS0506 17	1795	1856	777	8
+DE08 234	1824	1856	785	5
+DE08 328	1823	1855	797	7
+DSS0506 18	1792	1853	778	7
+DE08 200	1820	1852	794	8
+DSS 170	1791	1852	785	7
+DE08 446	1820	1852	778	6
+DSS 203	1790	1851	777	11
+DSS0506 31	1788	1849	779	7
+DSS 009	1787	1848	773	5
+DE08 366	1815	1847	781	13
+DE08 433	1814	1846	775	4
+DE08 414	1814	1846	780	4
+DE08 441	1813	1845	783	4
+DE08 442	1813	1845	783	4
+DSS 202	1783	1844	773	11
+DE08 466	1812	1844	769	8
+DE08 467	1811	1843	770	8
+DE08 222	1810	1842	776	5
+DE08 386	1809	1841	768	4
+DE08 387	1809	1841	770	4
+DSS 201	1779	1840	771	12
+DE08 349	1808	1840	760	10
+DE08 445	1807	1839	760	6
+DSS 151	1777	1838	775	7
+DSS 140	1773	1834	777	7
+DE08-2 006	1801	1833	764	5
+DSS 010	1767	1828	764	5
+DSS0506 23	1766	1827	764	7
+DSS 139	1765	1826	761	10
+DSS0506 03	1761	1822	755	12
+DSS0506 05	1759	1820	756	8
+DSS 152	1754	1815	746	7
+DSS0506 10	1754	1815	737	8
+DSS0506 20	1750	1811	746	11
+DSS 015	1739	1800	736	8
+DSS 142	1739	1800	739	7
+DSS 189	1736	1797	729	14
+DSS0506 21	1736	1797	731	7
+DSS 016	1736	1797	724	5
+DSS 153	1734	1795	727	7
+DSS 182	1720	1781	727	7
+DSS 017	1719	1780	722	5
+DSS 154	1713	1774	730	7
+DSS 155	1704	1765	715	7
+DSS 031	1703	1764	710	8
+DSS0506 25	1700	1761	715	7
+DSS 014	1692	1753	704	5
+DSS 156	1692	1753	707	7
+DSS 208	1691	1752	713	11
+DSS 025	1689	1750	700	5
+DSS0506 22	1686	1747	712	11
+DSS 138	1681	1742	715	7
+DSS 157	1674	1735	712	7
+DSS0506 26	1669	1730	703	11
+DSS 144	1663	1724	684	7
+DSS 019	1663	1724	679	8
+DSS0506 27	1659	1720	677	7
+DSS0506 34	1650	1711	663	13
+DSS0506 28	1643	1704	688	7
+DSS 011	1634	1695	683	5
+DSS 159	1630	1691	693	7
+DSS 020	1622	1683	699	8
+DSS 013	1589	1650	682	5
+DSS 160	1580	1641	696	7
+DSS 183	1569	1630	693	7
+DSS 184	1549	1610	688	7
+DSS 012	1543	1604	675	5
+DSS 021	1531	1592	672	5
+DSS 146	1528	1589	681	7
+DSS 207	1514	1575	693	7
+DSS 032	1513	1574	692	8
+DSS 162	1500	1561	722	7
+DSS 018	1490	1551	711	10
+DSS 192	1488	1549	707	8
+DSS 194	1472	1533	700	8
+DSS 035	1470	1531	707	5
+DSS 023	1442	1503	700	5
+DSS 044	1409	1470	679	10
+DSS 022	1389	1450	693	8
+DSS 200	1370	1431	679	12
+DSS 174	1369	1430	705	7
+DSS 165	1351	1412	673	7
+DSS 024	1330	1391	681	5
+DSS 026	1330	1391	686	5
+DSS 178	1299	1360	677	7
+DSS 191	1293	1354	670	12
+DSS 185	1289	1350	677	7
+DSS 034	1270	1331	680	8
+DSS 148	1247	1308	698	7
+DSS 186	1218	1279	694	7
+DSS 167	1200	1261	678	7
+DSS 196	1196	1257	667	8
+DSS 039	1191	1252	668	5
+DSS 036	1140	1201	691	5
+DSS 137	1106	1167	697	7
+DSS 043	1086	1147	693	8
+DSS 169	1056	1117	684	7
+DSS 199	1012	1073	662	8
+DSS 149	1010	1071	670	7
+DSS 193	1000	1061	681	8
+DSS 040	989	1050	685	5
+DSS 150	980	1041	689	7
+DSS 125	923	984	662	10
+DSS 187	898	959	655	7
+DSS 109	854	915	656	10
+DSS 126	815	876	666	7
+DSS 128	762	823	651	10
+DSS 111	702	763	658	10
+DSS 112	670	731	659	7
+DSS 113	641	702	651	7
+DSS 114	609	670	643	13
+DSS 115	577	638	654	7
+DSS 117	555	616	661	10
+DSS 116	522	583	667	7
+DSS 080	497	558	661	8
+DSS 118	492	553	669	10
+DSS 119	458	519	647	10
+DSS 120	428	489	645	10
+DSS 121	377	438	630	10
+DSS 123	324	385	633	10
+DSS 124	297	358	653	10
+DSS 129	258	319	641	10
+DSS 130	236	297	649	7
+DSS 082	214	275	645	5
+DSS 131	206	267	649	10
+DSS 132	181	242	647	7
+DSS 134	115	176	636	10
+DSS 198	108	169	634	12
+DSS 135	94	155	642	7
