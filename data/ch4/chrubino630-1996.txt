@@ -108,7 +108,7 @@
 # Data line format - tab-delimited text, variable short name as header
 # Missing Values: 
 #
-SampleID	age_ice	year	CH4 (ppbv)	CH4err
+SampleID	age_ice	age_CH4	CH4ppb	CH4err
 DSSW20K 15.8	firn	1996	1707	1
 DSSW20K 29	firn	1994	1696	2
 DE08-2 0	firn	1993	1674	1

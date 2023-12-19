@@ -151,7 +151,7 @@ Column 3: CH4 mean (ppbv)
 Column 4: 1-sigma uncertainty (ppbv)
 Column 5: Laboratory (b=Bern, g=Grenoble)
 
-Depth      Gas Age   CH4 (ppbv)   1s    Lab.
+Depth      Gas Age   CH4 mean   1s    Lab.
 99.34           13     907      10      b
 102.45         126     784      10      g
 102.58         130     762      10      b
