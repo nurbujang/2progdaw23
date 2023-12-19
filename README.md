@@ -45,11 +45,15 @@ Project 2 for Programming for Data Analysis Winter 2023
 
             * 2.1.1 CO<sub>2</sub>
 
-            * 2.1.2 Air Temperature
+            * 2.1.2 Temperature
 
         * 2.2 CH<sub>4</sub> Anomaly From 800kyrs – Present
 
-        * 2.3 Irish Context: Precipitation
+        * 2.3 Irish Context: Climate Change Signal
+
+            * 2.3.1 Ireland Temperature
+
+            * 2.3.2 Ireland Precipitation
 
         * 2.4 Data Fusion To csv And json
 
