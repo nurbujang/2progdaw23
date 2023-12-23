@@ -31,11 +31,11 @@ Project 2 for Programming for Data Analysis Winter 2023
 
     * 1.3 Links Between CO<sub>2</sub>, Temperature, CH<sub>4</sub> And Precipitation In Climate Change
 
-        * 1.3.1 Atmospheric CO<sub>2</sub>
+        * 1.3.1 CO<sub>2</sub>
 
         * 1.3.2 Temperature
 
-        * 1.3.3 Atmospheric CH<sub>4</sub>
+        * 1.3.3 CH<sub>4</sub>
 
         * 1.3.4 Irish Precipitation
 
@@ -47,7 +47,7 @@ Project 2 for Programming for Data Analysis Winter 2023
 
             * 2.1.2 Temperature
 
-        * 2.2 CH<sub>4</sub> Anomaly From 800kyrs – Present
+        * 2.2 CH<sub>4</sub> Anomaly From 800kyrs To Present
 
         * 2.3 Irish Context: Climate Change Signal
 
