@@ -75,8 +75,6 @@ Python 3.11.5
 
 * conda install scipy
 
-* pip install distfit
-
 ## Usage Instructions
 
 * .ipynb extension file
