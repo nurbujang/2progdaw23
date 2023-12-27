@@ -73,7 +73,9 @@ Python 3.11.5
 
 ## Installation Instructions
 
-* conda install scipy
+* conda install scipy matplotlib
+
+* conda install -c conda-forge pymannkendall
 
 ## Usage Instructions
 
