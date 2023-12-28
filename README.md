@@ -65,7 +65,7 @@ Project 2 for Programming for Data Analysis Winter 2023
 
             * 2.5.3 Temporal Lead/Lag Analysis
 
-                * 2.5.3.1 Cross-Correlation Analysis
+                * 2.5.3.1 Time Lagged Cross-Correlation Analysis
 
                 * 2.5.3.2 The Granger Causality Test
 
@@ -90,6 +90,10 @@ Python 3.11.5
 * conda install scipy matplotlib
 
 * conda install -c conda-forge pymannkendall
+
+* conda install -c conda-forge statsmodels
+
+* 
 
 ## Usage Instructions
 
