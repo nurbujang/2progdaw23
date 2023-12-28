@@ -59,6 +59,20 @@ Project 2 for Programming for Data Analysis Winter 2023
 
         * 2.5 Analysis Of CO<sub>2</sub>, Temperature, CH<sub>4</sub> and Precipitation
 
+            * 2.5.1 Pearson Correlation
+
+            * 2.5.2 Trend Analysis: Mann-Kendall Test With MK Z Statistic
+
+            * 2.5.3 Temporal Lead/Lag Analysis
+
+                * 2.5.3.1 Cross-Correlation Analysis
+
+                * 2.5.3.2 The Granger Causality Test
+
+                * 2.5.3.3 Multi-Seasonal Time Series Decomposition for Irish Temperature and Irish Precipitation
+
+            * 2.5.4 Fast Fourier Transform (FFT)
+
         * 2.6 Global Temperature Anomaly Prediction
 
         * 2.7 Accelerated Warming
