@@ -65,14 +65,14 @@ Project 2 for Programming for Data Analysis Winter 2023
 
             * 2.5.3 Temporal Lead/Lag Analysis
 
-                * 2.5.3.1 Time Lagged Cross-Correlation Analysis
+                * 2.5.3.1 The Granger Causality Test
 
-                * 2.5.3.2 The Granger Causality Test
+                * 2.5.3.2 Autocorrelation Function (ACF) and Partial Autocorrelation Function (PACF)
 
-                * 2.5.3.3 Autocorrelation Function (ACF) and Partial Autocorrelation Function (PACF)
+                * 2.5.3.3 
                 
                 * 2.5.3.4 Multi-Seasonal Time Series Decomposition for Irish Temperature and Irish Precipitation
-
+Time Lagged Cross-Correlation Analysis
             * 2.5.4 Fast Fourier Transform (FFT)
 
         * 2.6 Global Temperature Anomaly Prediction
