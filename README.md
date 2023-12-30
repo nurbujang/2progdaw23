@@ -61,7 +61,13 @@ Project 2 for Programming for Data Analysis Winter 2023
 
             * 2.5.1 Pearson Correlation
 
-            * 2.5.2 Trend Analysis: Mann-Kendall Test With MK Z Statistic
+            * 2.5.2 Trend Analysis
+            
+                * 2.5.2.1 Mann-Kendall Test With MK Z Statistic
+
+                * 2.5.2.2 Fast Fourier Transform (FFT)
+
+                * 2.5.2.3 Multi-Seasonal Time Series Decomposition for Irish Temperature and Irish Precipitation
 
             * 2.5.3 Temporal Lead/Lag Analysis
 
@@ -69,15 +75,11 @@ Project 2 for Programming for Data Analysis Winter 2023
 
                 * 2.5.3.2 Autocorrelation Function (ACF) and Partial Autocorrelation Function (PACF)
 
-                * 2.5.3.3 
-                
-                * 2.5.3.4 Multi-Seasonal Time Series Decomposition for Irish Temperature and Irish Precipitation
-Time Lagged Cross-Correlation Analysis
-            * 2.5.4 Fast Fourier Transform (FFT)
+                * 2.5.3.3 Time Lagged Cross-Correlation Analysis
 
-        * 2.6 Global Temperature Anomaly Prediction
+            * 2.5.4 Global Temperature Anomaly Prediction
 
-        * 2.7 Accelerated Warming
+            * 2.5.5 Accelerated Warming
 
 * 4.0 Conclusions
 
