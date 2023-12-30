@@ -8,10 +8,10 @@ Project 2 for Programming for Data Analysis Winter 2023
 * ProgDAProject2.pdf (Project 2 Description)
 * project2.ipynb (Jupyter notebook)
     * main report
-* img folder
-    * 
+* df_all.csv
+* df_all.json
 * data folder
-    * 
+    * unprocessed data
 * README.md for Project 2
     * supplementary data of Project 2
 
