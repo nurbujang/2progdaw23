@@ -37,7 +37,7 @@ Project 2 for Programming for Data Analysis Winter 2023
 
         * 1.3.3 CH<sub>4</sub>
 
-        * 1.3.4 Irish Precipitation
+        * 1.3.4 Ireland's Temperature And Precipitation
 
 * 2.0 Methods and Implementation
 
@@ -51,9 +51,9 @@ Project 2 for Programming for Data Analysis Winter 2023
 
         * 2.3 Irish Context: Climate Change Signal
 
-            * 2.3.1 Ireland Temperature
+            * 2.3.1 Ireland's Temperature
 
-            * 2.3.2 Ireland Precipitation
+            * 2.3.2 Ireland's Precipitation
 
         * 2.4 Data Fusion To csv And json
 
@@ -68,6 +68,8 @@ Project 2 for Programming for Data Analysis Winter 2023
                 * 2.5.2.2 Fast Fourier Transform (FFT)
 
                 * 2.5.2.3 Multi-Seasonal Time Series Decomposition for Irish Temperature and Irish Precipitation
+
+                * 2.5.2.4 Ireland's Signal to Noise Ratio (SNR)
 
             * 2.5.3 Temporal Lead/Lag Analysis
 
