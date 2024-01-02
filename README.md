@@ -67,7 +67,7 @@ Project 2 for Programming for Data Analysis Winter 2023
 
                 * 2.5.2.2 Fast Fourier Transform (FFT)
 
-                * 2.5.2.3 Multi-Seasonal Time Series Decomposition for Irish Temperature and Irish Precipitation
+                * 2.5.2.3 Multi-Seasonal Time Series Decomposition for Ireland's Temperature and Precipitation
 
                 * 2.5.2.4 Ireland's Temperature Signal to Noise Ratio (SNR)
 
