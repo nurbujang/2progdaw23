@@ -69,7 +69,9 @@ Project 2 for Programming for Data Analysis Winter 2023
 
                 * 2.5.2.3 Multi-Seasonal Time Series Decomposition for Irish Temperature and Irish Precipitation
 
-                * 2.5.2.4 Ireland's Signal to Noise Ratio (SNR)
+                * 2.5.2.4 Ireland's Temperature Signal to Noise Ratio (SNR)
+
+                * 2.5.2.5 Ireland's Precipitation Signal to Noise Ratio (SNR)
 
             * 2.5.3 Temporal Lead/Lag Analysis
 
@@ -99,7 +101,7 @@ Python 3.11.5
 
 * conda install -c conda-forge statsmodels
 
-* 
+* conda install -c conda-forge scikit-learn
 
 ## Usage Instructions
 
