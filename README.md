@@ -41,49 +41,49 @@ Project 2 for Programming for Data Analysis Winter 2023
 
 * 2.0 Methods and Implementation
 
-        * 2.1 CO<sub>2</sub> vs Temperature Anomaly From 800kyrs – Present
+    * 2.1 CO<sub>2</sub> vs Temperature Anomaly From 800kyrs – Present
 
-            * 2.1.1 CO<sub>2</sub>
+        * 2.1.1 CO<sub>2</sub>
 
-            * 2.1.2 Temperature
+        * 2.1.2 Temperature
 
-        * 2.2 CH<sub>4</sub> Anomaly From 800kyrs To Present
+    * 2.2 CH<sub>4</sub> Anomaly From 800kyrs To Present
 
-        * 2.3 Irish Context: Climate Change Signal
+    * 2.3 Irish Context: Climate Change Signal
 
-            * 2.3.1 Ireland's Temperature
+        * 2.3.1 Ireland's Temperature
 
-            * 2.3.2 Ireland's Precipitation
+        * 2.3.2 Ireland's Precipitation
 
-        * 2.4 Data Fusion To csv And json
+    * 2.4 Data Fusion To csv And json
 
-        * 2.5 Analysis Of CO<sub>2</sub>, Temperature, CH<sub>4</sub> and Precipitation
+    * 2.5 Analysis Of CO<sub>2</sub>, Temperature, CH<sub>4</sub> and Precipitation
 
-            * 2.5.1 Pearson Correlation
+        * 2.5.1 Pearson Correlation
 
-            * 2.5.2 Trend Analysis
+        * 2.5.2 Trend Analysis
             
-                * 2.5.2.1 Mann-Kendall Test With MK Z Statistic
+            * 2.5.2.1 Mann-Kendall Test With MK Z Statistic
 
-                * 2.5.2.2 Fast Fourier Transform (FFT)
+            * 2.5.2.2 Fast Fourier Transform (FFT)
 
-                * 2.5.2.3 Multi-Seasonal Time Series Decomposition for Ireland's Temperature and Precipitation
+            * 2.5.2.3 Multi-Seasonal Time Series Decomposition for Ireland's Temperature and Precipitation
 
-                * 2.5.2.4 Ireland's Temperature Signal to Noise Ratio (SNR)
+            * 2.5.2.4 Ireland's Temperature Signal to Noise Ratio (SNR)
 
-                * 2.5.2.5 Ireland's Precipitation Signal to Noise Ratio (SNR)
+            * 2.5.2.5 Ireland's Precipitation Signal to Noise Ratio (SNR)
 
-            * 2.5.3 Temporal Lead/Lag Analysis
+        * 2.5.3 Temporal Lead/Lag Analysis
 
-                * 2.5.3.1 The Granger Causality Test
+            * 2.5.3.1 The Granger Causality Test
 
-                * 2.5.3.2 Autocorrelation Function (ACF) and Partial Autocorrelation Function (PACF)
+            * 2.5.3.2 Autocorrelation Function (ACF) and Partial Autocorrelation Function (PACF)
 
-                * 2.5.3.3 Time Lagged Cross-Correlation Analysis
+            * 2.5.3.3 Time Lagged Cross-Correlation Analysis
 
-            * 2.5.4 Global Temperature Anomaly Prediction
+        * 2.5.4 Global Temperature Anomaly Prediction
 
-            * 2.5.5 Accelerated Warming
+        * 2.5.5 Accelerated Warming
 
 * 4.0 Conclusions
 
