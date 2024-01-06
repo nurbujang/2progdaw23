@@ -71,7 +71,7 @@ Project 2 for Programming for Data Analysis Winter 2023
 
             * 2.5.2.4 Ireland's Temperature Signal to Noise Ratio (SNR)
 
-            * 2.5.2.5 Ireland's Precipitation Signal to Noise Ratio (SNR)
+            * 2.5.2.5 ETCCDI Ireland's Temperature Indices Evaluation
 
         * 2.5.3 Temporal Lead/Lag Analysis
 
