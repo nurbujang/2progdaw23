@@ -103,6 +103,8 @@ Python 3.11.5
 
 * conda install -c conda-forge scikit-learn
 
+* pip install icclim
+
 ## Usage Instructions
 
 * .ipynb extension file
