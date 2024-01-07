@@ -8,8 +8,11 @@ Project 2 for Programming for Data Analysis Winter 2023
 * ProgDAProject2.pdf (Project 2 Description)
 * project2.ipynb (Jupyter notebook)
     * main report
-* df_all.csv
-* df_all.json
+* df_all.csv - complete .csv dataset
+* df_all.json - complete .json dataset
+* df_all_plot.csv - subdataset for Global Temperature Anomaly Prediction
+* df_all_var.csv - subdataset for Accelerated Warming
+* df_alin.csv - subdataset for Ireland's Annual Temperature Signal to Noise Ratio (SNR)
 * data folder
     * unprocessed data
 * README.md for Project 2
@@ -71,8 +74,6 @@ Project 2 for Programming for Data Analysis Winter 2023
 
             * 2.5.2.4 Ireland's Temperature Signal to Noise Ratio (SNR)
 
-            * 2.5.2.5 ETCCDI Ireland's Temperature Indices Evaluation
-
         * 2.5.3 Temporal Lead/Lag Analysis
 
             * 2.5.3.1 The Granger Causality Test
@@ -102,8 +103,6 @@ Python 3.11.5
 * conda install -c conda-forge statsmodels
 
 * conda install -c conda-forge scikit-learn
-
-* pip install icclim
 
 ## Usage Instructions
 
